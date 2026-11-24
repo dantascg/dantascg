@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-Estudante de **Ciência da Computação** (6º período, UNINASSAU), com foco em **back-end com Python**. Gosto de resolver problemas reais: já fiz desde um sistema de gestão que usa **IA generativa** pra transformar mensagens de WhatsApp em pedidos até uma **API de folha de pagamento** com as regras de INSS e IRRF.
+Estudante de **Ciência da Computação** na UNINASSAU (6º período), com foco em desenvolvimento **back-end com Python e Django**. Gosto de resolver problemas reais: já fiz desde um sistema de gestão que usa **IA generativa** pra transformar mensagens de WhatsApp em pedidos até uma **API de folha de pagamento** com as regras de INSS e IRRF.
 
 - Procurando **estágio em desenvolvimento de software** (back-end / full-stack)
 - Trabalho mais com Python, Django, Django REST Framework e APIs REST
@@ -20,7 +20,7 @@ Estudante de **Ciência da Computação** (6º período, UNINASSAU), com foco em
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,supabase,ts,js,nextjs,react,html,css,dart,flutter,java,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,supabase,git,github,ts,js,nextjs,react,html,css,java,dart,flutter&theme=dark" />
 </p>
 
 
