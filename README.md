@@ -20,7 +20,7 @@ Estudante de **Ciência da Computação** na UNINASSAU (6º período), com foco 
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,supabase,git,github,ts,js,nextjs,react,html,css,java,dart,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,supabase,git,github,ts,js,nextjs,react,html,css,java,dart,flutter&theme=dark&perline=8" />
 </p>
 
 
